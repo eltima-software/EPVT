@@ -1,4 +1,4 @@
-IMPROVING YOUR POS SYSTEM SOFTWARE WITH ELTIMA TECHNOLOGY – EPTV INTEGRATION
+IMPROVING YOUR POS SYSTEM SOFTWARE WITH ELTIMA TECHNOLOGY – EPVT INTEGRATION
 ============================================================================
 
 A bad day at the mall will be trying to check out with your goods at the point of sale and finding out that the hardware equipment are faulty. It does not matter what kind of hardware – barcode scanner, scales, cash register or scales, they make our lives easier. This situation justifies the growing demands for a dedicated POS system. The use of specialized POS software by points of sale is on the rise.
