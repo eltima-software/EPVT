@@ -19,14 +19,14 @@ USB to RS232 software
 ### Major benefits of this software solution
 This dedicated USB to serial application provides a number of benefits and can be used to resolve various communication issues. Some of its features are:
  
-#####Out of the box solution
+##### Out of the box solution
 This specialized connectivity software lets you connect serial apps to any device or application using a USB interface eliminating the need to rewrite any code.
 
-#####Maximum flexibility
+##### Maximum flexibility
 Make full use of your USB devices with your serial-based equipment and programs by employing USB to Serial Converter.
  
-#####Cross-platform connectivity
+##### Cross-platform connectivity
 The Windows, Mac, and Linux operating systems are all fully supported by this software solution.
 
-#####Simple setup
+##### Simple setup
 Easy setup of USB to Serial Converter involves installing a driver and some minimal configuration to enjoy the application’s functionality on your system.
