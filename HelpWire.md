@@ -13,7 +13,7 @@ HelpWire clients are available for free on Windows (7 or later), macOS (11.0 Big
 
 HelpWire also offers many additional features for registered users. Registration is the preferable method of use for teams, or specialists that deal with recurrent sessions. An account will record **session and chat history**, allow a user to **quickly restart sessions** with a previous client, enable the option for **unattended access**, and provide **team management tools**.
 
-##How to Get Started with HelpWire Quick Connect
+## How to Get Started with HelpWire Quick Connect
 
 HelpWire Quick Connect is a version of HelpWire that is intended for immediate support. It can be used without logging in, but doesn’t include account-based features.
 
