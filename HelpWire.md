@@ -1,17 +1,36 @@
-HelpWire 
----------
+#HelpWire
 
-HelpWire is a unique remote assistance tool based an advanced port virtualization technology. The solution is designed to help reduce the cost of technical support and time invested in handling customer issues.
-[HelpWire](https://www.eltima.com/products/remote-customer-support/) makes it simple for engineers to control and support their customers’ equipment remotely. With the software, technical specialists are able to get full access to a malfunctioning device by connecting to it over network (Ethernet, Wi-Fi, the Internet). The device located far away will appear in the expert’s computer as though it were physically attached to the specialist’s machine
+[HelpWire](https://www.helpwire.app/) is a cross-platform tool for remote support, suitable for solo providers, tech support teams, and internal support in small-to-medium businesses. HelpWire allows sessions to be started quickly and with minimal effort on the part of the remote user. It also offers instant communication with clients over the built-in chat, and a range of features that make it applicable in most support situations.
 
-## Major benefits you get with HelpWire: 
+**HelpWire allows a support specialist to:**
 
-* Fully customized solution
-The software is offered with a custom GUI and a set of advanced features uniquely designed to meet client’ needs. Any specific feature can be added to the solution on your request. 
-* The simplicity of use
-Easy to use, this efficient remote support solution requires no additional hardware or software. A simple HepWire installation on technician’s and clients’ computers will be sufficient for getting remote access to a malfunctioning device over network. 
-* Quick response
-The remote assistance solution eliminates the need for onsite services which allows experts to significantly increase the speed of response to customer need. Issues can be resolved faster as a specialist is able to immediately address the situation. 
-* Cross-platform compatibility
-HelpWire supports multiple operating systems, including Windows, Mac, Linux, and Android. Thanks to this cross-platform connectivity, users can create client/server connections in different combinations.
-Use cases for HelpWire range from diagnosing remote equipment (phones, computers, printers, CNC machines, vehicle ECU, etc.) to providing prompt online support and repair service.
+- Sync their clipboard with the remote computer
+- Transfer files by dragging and dropping
+- Switch between the remote computer’s monitors
+- Work from their preferred operating system
+
+HelpWire clients are available for free on Windows (7 or later), macOS (11.0 Big Sur or later), and Linux (Ubuntu 18.04 and up, Debian 11 and up, CentOS Stream 9, Red Hat Enterprise 9, and Fedora 39+).
+
+HelpWire also offers many additional features for registered users. Registration is the preferable method of use for teams, or specialists that deal with recurrent sessions. An account will record **session and chat history**, allow a user to **quickly restart sessions** with a previous client, enable the option for **unattended access**, and provide **team management tools**.
+
+##How to Get Started with HelpWire Quick Connect
+
+HelpWire Quick Connect is a version of HelpWire that is intended for immediate support. It can be used without logging in, but doesn’t include account-based features.
+
+1. Download HelpWire Quick Connect on the support specialist’s computer.
+
+![Quick Connect download page](https://github.com/eltima-software/EPVT/blob/master/1.png)
+
+2. Launch the downloaded app and send the provided link to the support recipient.
+
+![The link can be copied with a button](https://github.com/eltima-software/EPVT/blob/master/2.png)
+
+3. The client should then open the link in their browser.
+
+![The client’s download](https://github.com/eltima-software/EPVT/blob/master/3.png)
+
+4. They should launch the downloaded file, and grant access to the specialist.
+
+![Access request](https://github.com/eltima-software/EPVT/blob/master/4.png)
+
+After this, the session is established, and the support technician can begin resolving any of the client’s issues.
